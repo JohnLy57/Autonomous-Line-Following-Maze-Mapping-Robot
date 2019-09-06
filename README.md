@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
@@ -66,3 +67,9 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+=======
+# Team 26
+ The Ultimate ECE 3400 Squad
+ 
+* [Contract](https://johnly57.github.io/Team-26/contract.md)
+>>>>>>> 16241a8699a9c85918a6f30ac7838caf6b40535a
