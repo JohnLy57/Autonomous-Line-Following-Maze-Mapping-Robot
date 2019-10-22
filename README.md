@@ -1,3 +1,6 @@
+This website is maintained via https://github.coecis.cornell.edu/jtl222/Team-26
+
+
 <<<<<<< HEAD
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
