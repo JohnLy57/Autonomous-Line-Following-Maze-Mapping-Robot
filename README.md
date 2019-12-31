@@ -3,6 +3,6 @@ This Project details the development of an autonomous, line following, maze mapp
 ### Please view here at:
 
 ## Team 26
-[![Team 26 Preview](https://github.com/JohnLy57/Autonomous-Line-Following-Maze-Mapping-Robot/blob/master/img/final/final_robot.jpg)](https://pages.github.coecis.cornell.edu/jtl222/Team-26/)
+[![Team 26 Preview](https://github.com/JohnLy57/Autonomous-Line-Following-Maze-Mapping-Robot/blob/master/img/Team%2026%20Splash%20Screen.png)](https://pages.github.coecis.cornell.edu/jtl222/Team-26/)
 
 #### This website is maintained via https://github.coecis.cornell.edu/jtl222/Team-26
